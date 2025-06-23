@@ -11,7 +11,7 @@
 
 - 🎓 Estudiante apasionado por la tecnología y la programación.
 - 👨‍💻 Interesado en desarrollo web, inteligencia artificial y automatización.
-- 🌱 Actualmente aprendiendo **[tecnología/lenguaje de tu interés]**.
+- 🌱 Actualmente aprendiendo **NexJS,NestJS**.
 - 💡 Me encanta colaborar en proyectos open source y desafíos de programación.
 - 📫 Puedes contactarme en: **cesarbasiliogomez@gmail.com**
 
